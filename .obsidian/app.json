@@ -1,0 +1,9 @@
+{
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "tabSize": 2,
+  "vimMode": true,
+  "promptDelete": false,
+  "showLineNumber": true
+}
